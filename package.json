@@ -1,0 +1,15 @@
+{
+  "name": "steam-game-api",
+  "version": "1.0.0",
+  "description": "Steam Game API",
+  "author": "SekoMirson",
+  "main": "steam_game_api.js",
+  "scripts": {
+    "start": "node steam_game_api.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
