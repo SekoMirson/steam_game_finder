@@ -16,8 +16,8 @@ Kullanıcı, bir **Steam AppID** girerek oyunun adını, çıkış tarihini, fiy
 
 ## 📦 Kurulum
 # Projeyi klonla
-git clone https://github.com/kullanici/steam-game-api.git
-cd steam-game-api
+git clone https://github.com/SekoMirson/steam_game_finder.git
+cd steam_game_finder
 
 # Bağımlılıkları yükle
 npm install
